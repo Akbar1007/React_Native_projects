@@ -1,4 +1,4 @@
-import icedCoffeeImg from '@assets/images/iced-coffee.png'
+import icedCoffeeImg from '@/assets/images/iced-coffee.png'
 import { ImageBackground, StyleSheet, Text, View } from 'react-native'
 
 export default function app() {
