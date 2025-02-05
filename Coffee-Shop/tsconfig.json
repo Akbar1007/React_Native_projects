@@ -12,6 +12,6 @@
 		"**/*.jsx", // jsx if needed
 		".expo/types/**/*.ts",
 		"expo-env.d.ts",
-		"app/index.tsx" // app entry point
+		"app/(coffee)/index.tsx" // app entry point
 	]
 }
