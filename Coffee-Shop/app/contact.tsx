@@ -1,8 +1,7 @@
+import { Colors } from '@/constants/Colors'
 import { Fontisto } from '@expo/vector-icons'
 import { Link } from 'expo-router'
 import { Appearance, SafeAreaView, StyleSheet, Text, View } from 'react-native'
-
-import { Colors } from '@/constants/Colors'
 
 export default function ContactScreen() {
 	const colorScheme = Appearance.getColorScheme()
